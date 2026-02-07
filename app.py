@@ -9,7 +9,7 @@ def home():
     # تصميم احترافي داخل الكود مباشرة
     html = """
     <body style="background:#000; color:#0f0; font-family:monospace; padding:20px;">
-        <h1>💀 Ghost Command Center 💀</h1>
+        <h1>💀 GHOST PRO LIVE 💀</h1>
         <hr>
         <h3>Captures: {count}</h3>
         <ul>{items}</ul>
